@@ -1,4 +1,4 @@
 {
   "type": "minecraft:block",
-  "random_sequence": "minecraft:blocks/pumpkin_pie"
+  "random_sequence": "farmersdelight:blocks/pumpkin_pie"
 }
